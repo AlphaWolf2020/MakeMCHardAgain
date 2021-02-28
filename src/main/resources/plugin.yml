@@ -1,0 +1,7 @@
+name: MakeMcHardAgain
+version: ${project.version}
+main: hardmc.makemchardagain.MakeMcHardAgain
+api-version: 1.16.5
+authors: [ FranFranJams ]
+description: A plugin to give a harder feel to minecraft
+website: We have no website as of yet but join our DiscordS -> https://discord.gg/gFuDHS2Jyd <-
